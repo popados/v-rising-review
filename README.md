@@ -6,7 +6,7 @@
 
 ***
 
-### 001 | 5/20/2022 - Friday
+### My review
 
 Alot of streamers started playing. I think MaryMaybe started. This looks like alot of fun.
 
@@ -24,9 +24,15 @@ RELEASE DATE: May 17, 2022
 
     - Vampire with shapeshifting etc
 
+
+
 <details>
 
-<summary><b>Steam Blurb :</b></summary>
+<summary><b>
+
+### Steam Blurb :
+
+</b></summary>
 
 
 
@@ -102,8 +108,10 @@ There is a bit of a free gap in 'the progress'. Collecting copper, gotta get ani
 
 
 ***
+### Review parts
 
 ---{ Graphics }---
+
 ☐ You forget what reality is
 ☐ Beautiful
 ☑ Good
@@ -113,6 +121,7 @@ There is a bit of a free gap in 'the progress'. Collecting copper, gotta get ani
 ☐ MS-DOS
 
 ---{ Gameplay }---
+
 ☑ Very good
 ☐ Good
 ☐ It's just gameplay
@@ -121,6 +130,7 @@ There is a bit of a free gap in 'the progress'. Collecting copper, gotta get ani
 ☐ Just don't
 
 ---{ Audio }---
+
 ☐ Eargasm
 ☑ Very good
 ☐ Good
@@ -129,12 +139,14 @@ There is a bit of a free gap in 'the progress'. Collecting copper, gotta get ani
 ☐ I'm now deaf
 
 ---{ Audience }---
+
 ☐ Kids
 ☑ Teens
 ☑ Adults
 ☐ Grandma
 
 ---{ PC Requirements }---
+
 ☐ Check if you can run paint
 ☐ Potato
 ☑ Decent
@@ -143,6 +155,7 @@ There is a bit of a free gap in 'the progress'. Collecting copper, gotta get ani
 ☐ Ask NASA if they have a spare computer
 
 ---{ Difficulty }---
+
 ☐ Just press 'W'
 ☐ Easy
 ☑ Easy to learn / Hard to master
@@ -151,6 +164,7 @@ There is a bit of a free gap in 'the progress'. Collecting copper, gotta get ani
 ☐ Dark Souls
 
 ---{ Grind }---
+
 ☑ Nothing to grind
 ☐ Only if u care about leaderboards/ranks
 ☐ Isn't necessary to progress
@@ -159,6 +173,7 @@ There is a bit of a free gap in 'the progress'. Collecting copper, gotta get ani
 ☐ You'll need a second life for grinding
 
 ---{ Story }---
+
 ☐ No Story
 ☐ Some lore
 ☐ Average
@@ -167,6 +182,7 @@ There is a bit of a free gap in 'the progress'. Collecting copper, gotta get ani
 ☐ It'll replace your life
 
 ---{ Game Time }---
+
 ☐ Long enough for a cup of coffee
 ☐ Short
 ☐ Average
@@ -174,6 +190,7 @@ There is a bit of a free gap in 'the progress'. Collecting copper, gotta get ani
 ☐ To infinity and beyond
 
 ---{ Price }---
+
 ☐ It's free!
 ☑ Worth the price
 ☐ If it's on sale
@@ -182,6 +199,7 @@ There is a bit of a free gap in 'the progress'. Collecting copper, gotta get ani
 ☐ You could also just burn your money
 
 ---{ Bugs }---
+
 NOTE:REMEMBER THAT THE GAME IS IN EARLY ACCESS DURING THIS REVIEW. THE BUGS IS NOT BAD FOR AN EARLY ACCESS TITLE
 ☐ Never heard of
 ☑ Minor bugs
@@ -190,6 +208,7 @@ NOTE:REMEMBER THAT THE GAME IS IN EARLY ACCESS DURING THIS REVIEW. THE BUGS IS N
 ☐ The game itself is a big terrarium for bugs
 
 ---{ ? / 10 }---
+
 ☐ 1
 ☐ 2
 ☐ 3
